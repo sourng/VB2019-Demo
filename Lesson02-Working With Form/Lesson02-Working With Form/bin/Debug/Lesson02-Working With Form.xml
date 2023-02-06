@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lesson02-Working With Form
+</name>
+</assembly>
+<members>
+<member name="T:Lesson02_Working_With_Form.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources._1323">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources._237510">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources._2375101">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources.gfgimage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources.gfgimage2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources.register">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Lesson02_Working_With_Form.My.Resources.Resources.sourng_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

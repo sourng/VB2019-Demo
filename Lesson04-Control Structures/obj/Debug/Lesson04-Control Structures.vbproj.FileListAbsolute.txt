@@ -1,0 +1,12 @@
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\bin\Debug\Lesson04-Control Structures.exe.config
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\bin\Debug\Lesson04-Control Structures.exe
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\bin\Debug\Lesson04-Control Structures.pdb
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\bin\Debug\Lesson04-Control Structures.xml
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\obj\Debug\Lesson04-Control Structures.vbprojAssemblyReference.cache
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\obj\Debug\Lesson04_Control_Structures.frmStudentScore.resources
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\obj\Debug\Lesson04_Control_Structures.Resources.resources
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\obj\Debug\Lesson04-Control Structures.vbproj.GenerateResource.cache
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\obj\Debug\Lesson04-Control Structures.vbproj.CoreCompileInputs.cache
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\obj\Debug\Lesson04-Control Structures.exe
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\obj\Debug\Lesson04-Control Structures.xml
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson04-Control Structures\obj\Debug\Lesson04-Control Structures.pdb

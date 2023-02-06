@@ -1,0 +1,31 @@
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Lesson02-Working With Form.exe.config
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Lesson02-Working With Form.exe
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Lesson02-Working With Form.pdb
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Lesson02-Working With Form.xml
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.frmRegister.resources
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.Resources.resources
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.vbproj.GenerateResource.cache
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.vbproj.CoreCompileInputs.cache
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.exe
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.xml
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.pdb
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.frmUserLogin.resources
+D:\02-RTCSR-CLASS\All Subjects in RTCSR\02-Personal Application Development(VB.Net)\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.frmAdminLogin.resources
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Lesson02-Working With Form.exe.config
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Lesson02-Working With Form.exe
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Lesson02-Working With Form.pdb
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Lesson02-Working With Form.xml
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\bin\Debug\Guna.UI2.dll
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.vbprojAssemblyReference.cache
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.frmAdminLogin.resources
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.frmMainApplication.resources
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.frmRegister.resources
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.frmUserLogin.resources
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.Resources.resources
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.vbproj.GenerateResource.cache
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.vbproj.CoreCompileInputs.cache
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.vbproj.CopyComplete
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.exe
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.xml
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02-Working With Form.pdb
+D:\02-AU Class\Dot Net Programming I\VB2019-Tutorial\Practise Code\Lesson02-Working With Form\Lesson02-Working With Form\obj\Debug\Lesson02_Working_With_Form.frmMainSmart.resources
